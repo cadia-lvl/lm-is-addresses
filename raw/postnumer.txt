@@ -1,0 +1,196 @@
+Póstnúmer;Staður;Tegund;Svæði;Heimilisfang;Eldra póstnúmer
+101;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+102;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;101
+103;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+104;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+105;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+107;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+108;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+109;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+110;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+111;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+112;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+113;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+116;Reykjavík;Þéttbýli;Höfuðborgarsvæðið; ;
+121;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+123;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+124;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+125;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+127;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+128;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+129;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+130;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+132;Reykjavík;Pósthólf;Höfuðborgarsvæðið; ;
+150;Reykjavík;Dreifbýli;Fyrirtækjaþjónusta; ;
+155;Reykjavík;Dreifbýli;Fyrirtækjaþjónusta; ;
+161;Reykjavík;Dreifbýli;Höfuðborgarsvæðið; ;110
+162;Reykjavík;Dreifbýli;Höfuðborgarsvæðið; ;116
+170;Seltjarnarnesi;Þéttbýli;Höfuðborgarsvæðið; ;
+172;Seltjarnarnesi;Pósthólf;Höfuðborgarsvæðið; ;
+190;Vogum;Þéttbýli;Suðurland og Reykjanes; ;
+191;Vogum;Dreifbýli;Suðurland og Reykjanes; ;190
+200;Kópavogi;Þéttbýli;Höfuðborgarsvæðið; ;
+201;Kópavogi;Þéttbýli;Höfuðborgarsvæðið; ;
+202;Kópavogi;Pósthólf;Höfuðborgarsvæðið; ;
+203;Kópavogi;Þéttbýli;Höfuðborgarsvæðið; ;
+206;Kópavogi;Dreifbýli;; ;
+210;Garðabæ;Þéttbýli;Höfuðborgarsvæðið; ;
+212;Garðabæ;Pósthólf;Höfuðborgarsvæðið; ;
+220;Hafnarfirði;Þéttbýli;Höfuðborgarsvæðið; ;
+221;Hafnarfirði;Þéttbýli;Höfuðborgarsvæðið; ;
+222;Hafnarfirði;Pósthólf;Höfuðborgarsvæðið; ;
+225;Garðabæ;Þéttbýli;Höfuðborgarsvæðið; ;
+230;Reykjanesbæ;Þéttbýli;Suðurland og Reykjanes; ;
+232;Reykjanesbæ;Pósthólf;Suðurland og Reykjanes; ;
+233;Reykjanesbæ;Þéttbýli;Suðurland og Reykjanes; ;
+235;Keflavíkurflugvelli;Þéttbýli;Suðurland og Reykjanes; ;
+240;Grindavík;Þéttbýli;Suðurland og Reykjanes; ;
+241;Grindavík;Dreifbýli;Suðurland og Reykjanes; ;240
+245;Suðurnesjabæ;Þéttbýli;Suðurland og Reykjanes; ;
+246;Suðurnesjabæ;Dreifbýli;Suðurland og Reykjanes; ;245
+250;Suðurnesjabæ;Þéttbýli;Suðurland og Reykjanes; ;
+251;Suðurnesjabæ;Dreifbýli;Suðurland og Reykjanes; ;250
+260;Reykjanesbæ;Þéttbýli;Suðurland og Reykjanes; ;
+262;Reykjanesbæ;Þéttbýli;Suðurland og Reykjanes; ;235
+270;Mosfellsbæ;Þéttbýli;Höfuðborgarsvæðið; ;
+271;Mosfellsbæ;Þéttbýli;Höfuðborgarsvæðið; ;
+276;Mosfellsbæ;Þéttbýli;Höfuðborgarsvæðið; ;
+300;Akranesi;Þéttbýli;Vesturland og Vestfirðir; ;
+301;Akranesi;Dreifbýli;Vesturland og Vestfirðir; ;
+302;Akranesi;Pósthólf;Vesturland og Vestfirðir; ;
+310;Borgarnesi;Þéttbýli;Vesturland og Vestfirðir; ;
+311;Borgarnesi;Dreifbýli;Vesturland og Vestfirðir; ;
+320;Reykholti;Þéttbýli;Vesturland og Vestfirðir; ;
+340;Stykkishólmi;Þéttbýli;Vesturland og Vestfirðir; ;
+341;Stykkishólmi;Dreifbýli;Vesturland og Vestfirðir; ;340
+342;Stykkishólmi;Dreifbýli;Vesturland og Vestfirðir; ;311
+345;Flatey;Þéttbýli;Vesturland og Vestfirðir; ;
+350;Grundarfirði;Þéttbýli;Vesturland og Vestfirðir; ;
+351;Grundarfirði;Dreifbýli;Vesturland og Vestfirðir; ;350
+355;Ólafsvík;Þéttbýli;Vesturland og Vestfirðir; ;
+356;Snæfellsbæ;Þéttbýli;Vesturland og Vestfirðir; ;
+360;Hellissandi;Þéttbýli;Vesturland og Vestfirðir; ;
+370;Búðardal;Þéttbýli;Vesturland og Vestfirðir; ;
+371;Búðardal;Dreifbýli;Vesturland og Vestfirðir; ;
+380;Reykhólahreppi;Þéttbýli;Vesturland og Vestfirðir; ;
+381;Reykhólahreppi;Dreifbýli;Vesturland og Vestfirðir; ;380
+400;Ísafirði;Þéttbýli;Vesturland og Vestfirðir; ;
+401;Ísafirði;Dreifbýli;Vesturland og Vestfirðir; ;
+410;Hnífsdal;Þéttbýli;Vesturland og Vestfirðir; ;
+415;Bolungarvík;Þéttbýli;Vesturland og Vestfirðir; ;
+416;Bolungarvík;Dreifbýli;Vesturland og Vestfirðir; ;415
+420;Súðavík;Þéttbýli;Vesturland og Vestfirðir; ;
+421;Súðavík;Dreifbýli;Vesturland og Vestfirðir; ;420
+425;Flateyri;Þéttbýli;Vesturland og Vestfirðir; ;
+426;Flateyri;Dreifbýli;Vesturland og Vestfirðir; ;425
+430;Suðureyri;Þéttbýli;Vesturland og Vestfirðir; ;
+431;Suðureyri;Dreifbýli;Vesturland og Vestfirðir; ;430
+450;Patreksfirði;Þéttbýli;Vesturland og Vestfirðir; ;
+451;Patreksfirði;Dreifbýli;Vesturland og Vestfirðir; ;
+460;Tálknafirði;Þéttbýli;Vesturland og Vestfirðir; ;
+461;Tálknafirði;Dreifbýli;Vesturland og Vestfirðir; ;460
+465;Bíldudal;Þéttbýli;Vesturland og Vestfirðir; ;
+466;Bíldudal;Dreifbýli;Vesturland og Vestfirðir; ;465
+470;Þingeyri;Þéttbýli;Vesturland og Vestfirðir; ;
+471;Þingeyri;Dreifbýli;Vesturland og Vestfirðir; ;
+500;Stað;Þéttbýli;Vesturland og Vestfirðir; ;
+510;Hólmavík;Þéttbýli;Vesturland og Vestfirðir; ;
+511;Hólmavík;Dreifbýli;Vesturland og Vestfirðir; ;510
+512;Hólmavík;Dreifbýli;Vesturland og Vestfirðir; ;
+520;Drangsnesi;Þéttbýli;Vesturland og Vestfirðir; ;
+524;Árneshreppi;Dreifbýli;Vesturland og Vestfirðir; ;
+530;Hvammstanga;Þéttbýli;Norðurland; ;
+531;Hvammstanga;Dreifbýli;Norðurland; ;
+540;Blönduósi;Þéttbýli;Norðurland; ;
+541;Blönduósi;Dreifbýli;Norðurland; ;
+545;Skagaströnd;Þéttbýli;Norðurland; ;
+546;Skagaströnd;Dreifbýli;Norðurland; ;545
+550;Sauðárkróki;Þéttbýli;Norðurland; ;
+551;Sauðárkróki;Dreifbýli;Norðurland; ;
+560;Varmahlíð;Þéttbýli;Norðurland; ;
+561;Varmahlíð;Dreifbýli;Norðurland; ;560
+565;Hofsósi;Þéttbýli;Norðurland; ;
+566;Hofsósi;Dreifbýli;Norðurland; ;
+570;Fljótum;Þéttbýli;Norðurland; ;
+580;Siglufirði;Þéttbýli;Norðurland; ;
+581;Siglufirði;Dreifbýli;Norðurland; ;580
+600;Akureyri;Þéttbýli;Norðurland; ;
+601;Akureyri;Dreifbýli;Norðurland; ;
+602;Akureyri;Pósthólf;Norðurland; ;
+603;Akureyri;Þéttbýli;Norðurland; ;
+604;Akureyri;Dreifbýli;Norðurland; ;601
+605;Akureyri;Dreifbýli;Norðurland; ;601
+606;Akureyri;Dreifbýli;Norðurland; ;601
+607;Akureyri;Dreifbýli;Norðurland; ;601
+610;Grenivík;Þéttbýli;Norðurland; ;
+611;Grímsey;Þéttbýli;Norðurland; ;
+616;Grenivík;Dreifbýli;Norðurland; ;610
+620;Dalvík;Þéttbýli;Norðurland; ;
+621;Dalvík;Dreifbýli;Norðurland; ;
+625;Ólafsfirði;Þéttbýli;Norðurland; ;
+626;Ólafsfirði;Dreifbýli;Norðurland; ;625
+630;Hrísey;Þéttbýli;Norðurland; ;
+640;Húsavík;Þéttbýli;Norðurland; ;
+641;Húsavík;Dreifbýli;Norðurland; ;
+645;Fosshóli;Þéttbýli;Norðurland; ;
+650;Laugum;Þéttbýli;Norðurland; ;
+660;Mývatni;Þéttbýli;Norðurland; ;
+670;Kópaskeri;Þéttbýli;Norðurland; ;
+671;Kópaskeri;Dreifbýli;Norðurland; ;
+675;Raufarhöfn;Þéttbýli;Norðurland; ;
+676;Raufarhöfn;Dreifbýli;Norðurland; ;675
+680;Þórshöfn;Þéttbýli;Norðurland; ;
+681;Þórshöfn;Dreifbýli;Norðurland; ;
+685;Bakkafirði;Þéttbýli;Norðurland; ;
+686;Bakkafirði;Dreifbýli;Norðurland; ;
+690;Vopnafirði;Þéttbýli;Norðurland; ;
+691;Vopnafirði;Dreifbýli;Norðurland; ;690
+700;Egilsstöðum;Þéttbýli;Austurland; ;
+701;Egilsstöðum;Dreifbýli;Austurland; ;
+710;Seyðisfirði;Þéttbýli;Austurland; ;
+711;Seyðisfirði;Dreifbýli;Austurland; ;710
+715;Mjóafirði;Þéttbýli;Austurland; ;
+720;Borgarfirði eystra;Þéttbýli;Austurland; ;
+721;Borgarfirði eystra;Dreifbýli;Austurland; ;720
+730;Reyðarfirði;Þéttbýli;Austurland; ;
+731;Reyðarfirði;Dreifbýli;Austurland; ;730
+735;Eskifirði;Þéttbýli;Austurland; ;
+736;Eskifirði;Dreifbýli;Austurland; ;735
+740;Neskaupstað;Þéttbýli;Austurland; ;
+741;Neskaupstað;Dreifbýli;Austurland; ;740
+750;Fáskrúðsfirði;Þéttbýli;Austurland; ;
+751;Fáskrúðsfirði;Dreifbýli;Austurland; ;750
+755;Stöðvarfirði;Þéttbýli;Austurland; ;
+756;Stöðvarfirði;Dreifbýli;Austurland; ;755
+760;Breiðdalsvík;Þéttbýli;Austurland; ;
+761;Breiðdalsvík;Dreifbýli;Austurland; ;760
+765;Djúpavogi;Þéttbýli;Austurland; ;
+766;Djúpavogi;Dreifbýli;Austurland; ;765
+780;Höfn í Hornafirði;Þéttbýli;Austurland; ;
+781;Höfn í Hornafirði;Dreifbýli;Austurland; ;
+785;Öræfum;Þéttbýli;Austurland; ;
+800;Selfossi;Þéttbýli;Suðurland og Reykjanes; ;
+801;Selfossi;Dreifbýli;Suðurland og Reykjanes; ;
+802;Selfossi;Pósthólf;Suðurland og Reykjanes; ;
+803;Selfossi;Dreifbýli;Suðurland og Reykjanes; ;801
+804;Selfossi;Dreifbýli;Suðurland og Reykjanes; ;801
+805;Selfossi;Dreifbýli;Suðurland og Reykjanes; ;801
+806;Selfossi;Dreifbýli;Suðurland og Reykjanes; ;801
+810;Hveragerði;Þéttbýli;Suðurland og Reykjanes; ;
+815;Þorlákshöfn;Þéttbýli;Suðurland og Reykjanes; ;
+816;Ölfusi;Dreifbýli;Suðurland og Reykjanes; ;
+820;Eyrarbakka;Þéttbýli;Suðurland og Reykjanes; ;
+825;Stokkseyri;Þéttbýli;Suðurland og Reykjanes; ;
+840;Laugarvatni;Þéttbýli;Suðurland og Reykjanes; ;
+845;Flúðum;Þéttbýli;Suðurland og Reykjanes; ;
+846;Flúðum;Dreifbýli;Suðurland og Reykjanes; ;845
+850;Hellu;Þéttbýli;Suðurland og Reykjanes; ;
+851;Hellu;Dreifbýli;Suðurland og Reykjanes; ;
+860;Hvolsvelli;Þéttbýli;Suðurland og Reykjanes; ;
+861;Hvolsvelli;Dreifbýli;Suðurland og Reykjanes; ;
+870;Vík;Þéttbýli;Suðurland og Reykjanes; ;
+871;Vík;Dreifbýli;Suðurland og Reykjanes; ;
+880;Kirkjubæjarklaustri;Þéttbýli;Suðurland og Reykjanes; ;
+881;Kirkjubæjarklaustri;Dreifbýli;Suðurland og Reykjanes; ;880
+900;Vestmannaeyjum;Þéttbýli;Suðurland og Reykjanes; ;
+902;Vestmannaeyjum;Pósthólf;Suðurland og Reykjanes; ;
