@@ -37,10 +37,15 @@ def print_line(line):
 def create_addresses(line, area_codes):
     area_code = line["POSTNR"]
     area_name = f", {area_codes[area_code]}" if area_code else ""
-    yield "{} {}".format(line["HEITI_NF"], line["HUSNR"])
-    yield "{} {}".format(line["HEITI_TGF"], line["HUSNR"])
-    yield "{} {}{}".format(line["HEITI_NF"], line["HUSNR"], area_name)
-    yield "{} {}{}".format(line["HEITI_TGF"], line["HUSNR"], area_name)
+    #assert area_code, "No area code" + str(line)
+    husnr = line["HUSNR"]
+    address_nf = line["HEITI_NF"] + (f" {husnr}" if husnr else "")
+    address_tgf = line["HEITI_TGF"] + (f" {husnr}" if husnr else "")
+    yield address_nf
+    yield address_tgf
+    if area_code:
+        yield address_nf + area_name
+        yield address_tgf + area_name
 
 
 def create_address_list(fname, area_codes):
